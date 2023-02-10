@@ -53,6 +53,11 @@ section[epub|type~="dedication"] > *{
 		margin: 0;
 	}
 }
+
+section[epub|type~="dedication"] > footer{
+	margin-top: 1em;
+	width: 18em;
+}
 /* End centered dedications */
 
 [epub|type~="epigraph"]{
