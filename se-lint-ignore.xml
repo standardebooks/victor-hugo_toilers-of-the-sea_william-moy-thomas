@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-1-1-8.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>“Gild-Holm-’Ur” is a proper noun, and shouldn’t follow standard titlecasing.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
