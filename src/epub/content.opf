@@ -44,9 +44,11 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A man from Guernsey offers his help in a dangerous trial to salvage a wrecked ship.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Gilliat is an accomplished sailor, but due to a mysterious mother and a home locally regarded as haunted, his acceptance into Guernsey society is limited. That isolation doesn’t stop him from falling for Déruchette, the “neat and delicate and pretty” niece of local ferry-owner Mess Lethierry. When the ship is involved in a catastrophic incident, Déruchette announces that she will marry the man who could salvage it; Gilliat immediately steps forwards to take on, alone, the impossible task.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/victor-hugo"&gt;Victor Hugo&lt;/a&gt; wrote &lt;i&gt;Toilers of the Sea&lt;/i&gt; while living on Guernsey, in the Channel Islands. It followed his extremely successful novel &lt;a href="https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-f-hapgood"&gt;&lt;i lang="fr"&gt;Les Misérables&lt;/i&gt;&lt;/a&gt;, both written there after exile from France for criticising Napoleon’s 1851 coup d’état. The themes of individual struggle and triumph over the wild forces of nature are easily seen as a corollary for the industrialisation happening in the society of the time, but the novel also records the contemporary life, language, and superstitions of the Channel Islands.&lt;/p&gt;
+			&lt;p&gt;The edition is based on the authorized translation of 1877 by William Moy Thomas.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32338</dc:source>
