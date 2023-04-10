@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/victor-hugo/toilers-of-the-sea/william-moy-thomas</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-04-10T20:28:05Z</dc:date>
+		<meta property="dcterms:modified">2023-04-10T20:28:05Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,16 +46,17 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A man from Guernsey offers his help in a dangerous trial to salvage a wrecked ship.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Gilliat is an accomplished sailor, but due to a mysterious mother and a home locally regarded as haunted, his acceptance into Guernsey society is limited. That isolation doesn’t stop him from falling for Déruchette, the “neat and delicate and pretty” niece of local ferry-owner Mess Lethierry. When the ship is involved in a catastrophic incident, Déruchette announces that she will marry the man who could salvage it; Gilliat immediately steps forwards to take on, alone, the impossible task.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/victor-hugo"&gt;Victor Hugo&lt;/a&gt; wrote &lt;i&gt;Toilers of the Sea&lt;/i&gt; while living on Guernsey, in the Channel Islands. It followed his extremely successful novel &lt;a href="https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-f-hapgood"&gt;&lt;i lang="fr"&gt;Les Misérables&lt;/i&gt;&lt;/a&gt;, both written there after exile from France for criticising Napoleon’s 1851 coup d’état. The themes of individual struggle and triumph over the wild forces of nature are easily seen as a corollary for the industrialisation happening in the society of the time, but the novel also records the contemporary life, language, and superstitions of the Channel Islands.&lt;/p&gt;
+			&lt;p&gt;Gilliat is an accomplished sailor, but due to a mysterious mother and a home locally regarded as haunted, his acceptance into Guernsey society is limited. That isolation doesn’t stop him from falling for Déruchette, the “neat and delicate and pretty” niece of local ferry-owner Mess Lethierry. When the ship is involved in a catastrophic incident, Déruchette announces that she will marry the man who can salvage it; Gilliat immediately steps forwards to take on, alone, the impossible task.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/victor-hugo"&gt;Victor Hugo&lt;/a&gt; wrote &lt;i&gt;Toilers of the Sea&lt;/i&gt; while living on Guernsey, in the Channel Islands. It followed his extremely successful novel &lt;a href="https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-f-hapgood"&gt;&lt;i lang="fr"&gt;Les Misérables&lt;/i&gt;&lt;/a&gt;, both written there after exile from France for criticizing Napoleon’s 1851 coup d’état.&lt;/p&gt;
+			&lt;p&gt;The themes of individual struggle and triumph over the wild forces of nature are easily seen as a corollary for the industrialization happening in the society of the time, but the novel also records the contemporary life, language, and superstitions of the Channel Islands.&lt;/p&gt;
 			&lt;p&gt;The edition is based on the authorized translation of 1877 by William Moy Thomas.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32338</dc:source>
 		<dc:source>https://archive.org/details/22612832.2248.emory.edu</dc:source>
 		<meta property="se:production-notes">The author specifically calls out the ship name “Durande” as not italicised in chapter-1-3-7.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">144935</meta>
+		<meta property="se:reading-ease.flesch">72.76</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Toilers_of_the_Sea</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/victor-hugo_toilers-of-the-sea_william-moy-thomas</meta>
 		<dc:creator id="author">Victor Hugo</dc:creator>
@@ -96,6 +97,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
