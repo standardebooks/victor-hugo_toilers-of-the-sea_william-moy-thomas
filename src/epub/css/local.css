@@ -32,6 +32,10 @@ footer{
 }
 
 /* Centered dedications */
+section[epub|type~="dedication"] h2{
+	margin: 3em 0;
+}
+
 section[epub|type~="dedication"]{
 	text-align: center;
 }
