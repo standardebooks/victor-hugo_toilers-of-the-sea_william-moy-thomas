@@ -75,7 +75,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="introduction">Ernest Rhys</dc:contributor>
 		<meta property="file-as" refines="#introduction">Rhys, Ernest</meta>
-		<meta property="role" refines="#introduction" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
