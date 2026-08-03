@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/victor-hugo/toilers-of-the-sea/william-moy-thomas</dc:identifier>
 		<dc:date>2023-04-10T20:28:05Z</dc:date>
@@ -46,13 +46,13 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A man from Guernsey offers his help in a dangerous trial to salvage a wrecked ship.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A man from Guernsey offers his help in a dangerous trial to salvage a wrecked ship.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Gilliat is an accomplished sailor, but due to a mysterious mother and a home locally regarded as haunted, his acceptance into Guernsey society is limited. That isolation doesn’t stop him from falling for Déruchette, the “neat and delicate and pretty” niece of local ferry-owner Mess Lethierry. When the ship is involved in a catastrophic incident, Déruchette announces that she will marry the man who can salvage it; Gilliat immediately steps forwards to take on, alone, the impossible task.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/victor-hugo"&gt;Victor Hugo&lt;/a&gt; wrote &lt;i&gt;Toilers of the Sea&lt;/i&gt; while living on Guernsey, in the Channel Islands. It followed his extremely successful novel &lt;a href="https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-f-hapgood"&gt;&lt;i lang="fr"&gt;Les Misérables&lt;/i&gt;&lt;/a&gt;, both written there after exile from France for criticizing Napoleon’s 1851 coup d’état.&lt;/p&gt;
 			&lt;p&gt;The themes of individual struggle and triumph over the wild forces of nature are easily seen as a corollary for the industrialization happening in the society of the time, but the novel also records the contemporary life, language, and superstitions of the Channel Islands.&lt;/p&gt;
 			&lt;p&gt;The edition is based on the authorized translation of 1877 by William Moy Thomas.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32338</dc:source>
 		<dc:source>https://archive.org/details/22612832.2248.emory.edu</dc:source>
