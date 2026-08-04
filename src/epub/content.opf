@@ -46,7 +46,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A man from Guernsey offers his help in a dangerous trial to salvage a wrecked ship.</dc:abstract>
+		<meta property="schema:abstract">A man from Guernsey offers his help in a dangerous trial to salvage a wrecked ship.</meta>
 		<dc:description>
 			&lt;p&gt;Gilliat is an accomplished sailor, but due to a mysterious mother and a home locally regarded as haunted, his acceptance into Guernsey society is limited. That isolation doesn’t stop him from falling for Déruchette, the “neat and delicate and pretty” niece of local ferry-owner Mess Lethierry. When the ship is involved in a catastrophic incident, Déruchette announces that she will marry the man who can salvage it; Gilliat immediately steps forwards to take on, alone, the impossible task.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/victor-hugo"&gt;Victor Hugo&lt;/a&gt; wrote &lt;i&gt;Toilers of the Sea&lt;/i&gt; while living on Guernsey, in the Channel Islands. It followed his extremely successful novel &lt;a href="https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-f-hapgood"&gt;&lt;i lang="fr"&gt;Les Misérables&lt;/i&gt;&lt;/a&gt;, both written there after exile from France for criticizing Napoleon’s 1851 coup d’état.&lt;/p&gt;
