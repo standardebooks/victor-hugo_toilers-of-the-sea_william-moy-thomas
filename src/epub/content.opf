@@ -78,6 +78,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="introduction">Ernest Rhys</dc:contributor>
 		<meta property="file-as" refines="#introduction">Rhys, Ernest</meta>
+		<link href="https://en.wikipedia.org/wiki/Ernest_Rhys" refines="#introduction" rel="schema:sameAs"/>
 		<meta property="role" refines="#introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#artist">Anonymous</meta>
